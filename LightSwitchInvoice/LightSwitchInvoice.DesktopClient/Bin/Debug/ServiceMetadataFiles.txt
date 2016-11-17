@@ -1,0 +1,4 @@
+LightSwitchInvoice.Server.Properties.Service.lsml
+LightSwitchInvoice.Server.Properties.DataSources.ApplicationData.lsml
+LightSwitchInvoice.Server.DataSources.ApplicationData.Customers.lsml
+LightSwitchInvoice.Server.DataSources.ApplicationData.Orders.lsml

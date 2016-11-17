@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\LightSwitchInvoice\LightSwitchInvoice\LightSwitchInvoice.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\LightSwitchInvoice\LightSwitchInvoice\LightSwitchInvoice.Server\Properties\DataSources\ApplicationData.lsml" Checksum="E6FEEAC3B4A850AAC5F0029259A0B9F8C1BD45F2950D17BD8D6664B9422E6AD6" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\LightSwitchInvoice\LightSwitchInvoice\LightSwitchInvoice.Server\DataSources\ApplicationData\Customers.lsml" Checksum="3B1F61B407CC13F83DB9C8A68B8AFEB4CEA0435DD21BD06B55BAFAE292F5E8F4" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\LightSwitchInvoice\LightSwitchInvoice\LightSwitchInvoice.Server\DataSources\ApplicationData\Orders.lsml" Checksum="D2EF9F700FCADF2B2E4E3534E6CE518DE0DE65757B8D3EF4C806625F4E7F31DF" />
+  </Documents>
+</ModelDocumentManifest>
